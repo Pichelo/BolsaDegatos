@@ -4,6 +4,7 @@
 /*   ejemplo de curses en C                         */
 /*   compilación: gcc -Wall -o $1 $1.c  -lncurses   */
 /*   autor Julio Espinoza                           */
+/*   fecha:    Noviembre 2020                       */
 
 
 typedef struct{short int x, y, puntos;} objetoPong;
